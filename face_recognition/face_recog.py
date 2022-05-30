@@ -79,7 +79,7 @@ class FaceRecog():
             self.face_names = []
             for face_encoding in self.face_encodings:
                 # See if the face is a match for the known face(s)
-                # 얼굴 비교에 대한 거리 값 반환
+                # 얼굴 비교에 대한 거리 값 반환 (거리 값이 가까울 수록 동일인물으로 판단)
                 distances = face_recognition.face_distance(self.known_face_encodings, face_encoding)
                 '''
                 # endocings -> 특징점 128개
