@@ -49,7 +49,10 @@
 <img width="80%" src="https://user-images.githubusercontent.com/50819145/172785198-e9ff2c14-69c8-46d7-8d4f-8e2ce8a1ca36.png" />
 
 ```
-나이 : 30, 성별 : 남자, 인종: 아시안,  감정 : 중립적
+나이 : 30, 
+성별 : 남자, 
+인종: 아시안,  
+감정 : 중립적
 ```
 
 # face_recognition
