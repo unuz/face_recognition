@@ -15,13 +15,12 @@
 <img width="80%" src="https://user-images.githubusercontent.com/50819145/170943460-018c4c8a-c171-4e4d-85e4-59dc80d0d885.png" />
 - 두번째 이미지
 <img width="80%" src="https://user-images.githubusercontent.com/50819145/170943501-d7f88563-7271-42b4-b5dd-052dc2d19df4.png" />
+
 <img width="80%" src="https://user-images.githubusercontent.com/50819145/170943526-b17fb0bb-a38e-4063-b933-f94014f19c6b.png" />
 
-# 배포 방법
 ```
-  두 이미지가 같은 사람임을 확인할 수 있다.
+두 이미지를 비교해 같은 사람임을 확인 할 수 있다.
 ```
-
 
 ### face_recognition
 - face_recognition 실행 화면
