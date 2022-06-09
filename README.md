@@ -41,6 +41,16 @@
 ```
 두 이미지를 비교해 같은 사람임을 확인 할 수 있다.
 ```
+## deepface_test.py 실행
+### 분석할 이미지
+<img width="40%" src="https://user-images.githubusercontent.com/50819145/172785022-9832bfd4-ddc0-40a0-a452-108575b5e801.png" />
+
+### 분석 결과
+<img width="80%" src="https://user-images.githubusercontent.com/50819145/172785198-e9ff2c14-69c8-46d7-8d4f-8e2ce8a1ca36.png" />
+
+```
+나이 : 30, 성별 : 남자, 인종: 아시안,  감정 : 중립적
+```
 
 # face_recognition
 ## camera.py 실행
