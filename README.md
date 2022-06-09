@@ -1,15 +1,7 @@
 # face_recognition
-
-### python 얼굴인식
+## python 얼굴 인식 프로젝트
 
 ### 구성도
-
-# 개발 환경
-- Tool : VS code
-- OS : window 10
-- python : Python 3.6.13
-- anaconda : conda 4.12.0
-- flask : 2.0.3
 
 ``` bash
 ├── deepface
@@ -27,6 +19,12 @@
 │  └── live_streaming.py  //flask route
 └── README.md
 ```
+# 개발 환경
+- Tool : VS code
+- OS : window 10
+- python : Python 3.6.13
+- anaconda : conda 4.12.0
+- flask : 2.0.3
 
 # deepface
 ## comparison.py 실행
